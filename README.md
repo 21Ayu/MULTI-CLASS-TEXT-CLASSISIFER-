@@ -59,10 +59,3 @@
    - Develop models that support scalable, real-time categorization.
 
 
-
-Why Participate: Participating in the hackathon offers several compelling reasons to join:
-Showcase your expertise in data analysis, machine learning, and predictive modeling in the context of retail text data.
-Apply your skills to real-world data
-Collaborate with like-minded enthusiasts in a competitive and immersive environment, fostering valuable connections.
-Enhance your portfolio with a retail-focused project that demonstrates your data science capabilities.
-Compete for exciting prizes and recognition, showcasing your skills as a data scientist and model builder.
