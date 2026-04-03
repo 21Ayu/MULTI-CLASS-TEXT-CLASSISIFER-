@@ -3,7 +3,7 @@
 ## Problem Statement
 
 
-### Evaluation Parameter
+### Evaluation Parameters
 
 1.Dataset analysis report (key findings, missing values, ambiguities)
 
